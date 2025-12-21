@@ -39,4 +39,4 @@
 ---
 
 ### ⚡ Fun Fact
-I believe **consistency beats talent** 
+**It’s not a bug, it’s an undocumented feature** 
