@@ -7,7 +7,7 @@
 - 🎓 Computer Science undergraduate
 - 🔭 Currently focusing on **Backend Development & System Design**
 - 🌱 Learning **Node.js, Databases, APIs, and Open Source workflows**
-- 🚀 Aspiring **Software Engineer / GSoC Contributor**
+- 🚀 Aspiring **Software Engineer**
 - 💡 Interested in **scalable systems and real-world problem solving**
 
 ---
