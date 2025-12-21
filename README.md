@@ -1,16 +1,48 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Abhay Kumar</h1>
+<h3 align="center">Computer Science Student | Programmer & Open Source Enthusiast</h3>
 
-<!--
-**sout-abhay-kumar/sout-abhay-kumar** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+---
 
-Here are some ideas to get you started:
+### 👨‍💻 About Me
+- 🎓 Computer Science undergraduate
+- 🔭 Currently focusing on **Backend Development & System Design**
+- 🌱 Learning **Node.js, Databases, APIs, and Open Source workflows**
+- 🚀 Aspiring **Software Engineer / GSoC Contributor**
+- 💡 Interested in **scalable systems and real-world problem solving**
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🛠️ Tech Stack
+**Languages**
+- JavaScript, TypeScript
+- Java 
+
+**Frontend**
+- React.js
+- HTML, CSS, Tailwind
+
+**Backend**
+- Node.js, Express.js
+- REST APIs
+
+**Databases**
+- MongoDB
+- MySQL / PostgreSQL
+
+**Tools & Platforms**
+- Git & GitHub
+- Linux
+- Postman
+
+---
+
+
+### 📫 Connect With Me
+- GitHub: https://github.com/sout-abhay-kumar
+- LinkedIn: https://linkedin.com/sout-abhay-kumar
+- Email: yourssincerelyabhay@example.com
+
+---
+
+### ⚡ Fun Fact
+I believe **consistency beats talent** 
