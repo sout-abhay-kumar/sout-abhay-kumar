@@ -34,7 +34,7 @@
 ### 📫 Connect With Me
 - GitHub: https://github.com/sout-abhay-kumar
 - LinkedIn: https://linkedin.com/sout-abhay-kumar
-- Email: yourssincerelyabhay@example.com
+- Email: yourssincerelyabhay@gmail.com
 
 ---
 
